@@ -1,0 +1,5 @@
+To install, simply copy this folder to wp-content/plugins in your Wordpress installation.
+
+This plugin shows a list of the subpages of the page where it is inserted.
+This plugin requries Visual Composer (http://vc.wpbakery.com/).
+Once installed, you can find "Subpages List" as a Visual Composer element.

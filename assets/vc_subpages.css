@@ -1,0 +1,12 @@
+ul.vc_subpages {
+	list-style-type: none;
+}
+
+ul.vc_subpages li:before {
+	content: "\00bb\00a0";
+}
+
+ul.vc_subpages li {
+	display: block;
+	border-bottom: 1px solid #EBEBEB;
+}
